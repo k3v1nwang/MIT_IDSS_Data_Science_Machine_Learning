@@ -3,6 +3,8 @@ Files uploaded correspond to the following certificate: https://www.mygreatlearn
 
 PDF Presentations (PowerPoint exports) – Summarize the **key findings, insights, and recommendations** in a clear, non-technical format intended for stakeholders and decision-makers.
 
+Full marks were received for all projects. 
+
 ## 1. Amazon Product Recommendation System
 **Course: Recommendation Systems**
 
