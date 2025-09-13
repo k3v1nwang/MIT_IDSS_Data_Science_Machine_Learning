@@ -1,6 +1,8 @@
 # Course Projects for Data Science and Machine Learning: Making Data-Driven Decisions by MIT IDSS
 Files uploaded correspond to the following certificate: https://www.mygreatlearning.com/eportfolio/kevin-wang
 
+PDF Presentations (PowerPoint exports) – Summarize the **key findings, insights, and recommendations** in a clear, non-technical format intended for stakeholders and decision-makers.
+
 ## 1. Amazon Product Recommendation System
 **Course: Recommendation Systems**
 
